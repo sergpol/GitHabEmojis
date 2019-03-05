@@ -1,2 +1,2 @@
 # GitHabEmojis
-GitHabEmojis iOS
+GitHabEmojis Android (Kotlin)
